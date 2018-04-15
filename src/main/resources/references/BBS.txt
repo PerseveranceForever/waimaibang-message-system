@@ -1,0 +1,53 @@
+消息持久化：
+    https://www.cnblogs.com/shihaiming/p/6015825.html
+
+ActiveMQ的几种消息持久化机制：
+    https://www.cnblogs.com/binyue/p/5371479.html
+
+ActiveMQ Broker发送消息给消费者过程详解：
+    http://donald-draper.iteye.com/blog/2348440
+
+Spring事物原理：
+    http://www.importnew.com/12300.html
+
+kahadb：
+    https://www.cnblogs.com/hapjin/p/5674257.html
+
+AMQ：
+    http://blog.csdn.net/u014401141/article/details/54772847
+
+AMQ：
+    http://blog.csdn.net/u014401141/article/category/6670656
+
+LEVELDB：
+    http://leveldb.org/
+    http://blog.csdn.net/linuxheik/article/details/52768223
+
+SSDB：
+    http://ssdb.io/zh_cn/#users
+
+tair：
+    http://tair.taobao.org/
+    https://www.lvtao.net/database/tair.html
+
+Redis：
+    http://blog.csdn.net/laomoluhaitao/article/details/78547919
+
+Ehcache:
+    http://blog.csdn.net/linlzk/article/details/47315805
+    http://blog.csdn.net/mawming/article/details/52171510
+    http://blog.csdn.net/vbirdbest/article/details/72763048
+    http://blog.csdn.net/xufan007/article/details/52163127
+
+阿里中间件团队博客：
+    http://jm.taobao.org/2016/04/01/kafka-vs-rabbitmq-vs-rocketmq-message-send-performance/
+
+Zookeeper：
+    https://www.cnblogs.com/wuxl360/p/5817471.html
+
+mybatis:
+https://gitee.com/free/Mapper
+https://blog.csdn.net/penkee/article/details/8574503
+
+SpringBean：
+https://www.cnblogs.com/april-chen/p/8182631.html
