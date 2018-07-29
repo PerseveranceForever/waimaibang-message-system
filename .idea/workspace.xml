@@ -273,6 +273,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -328,6 +330,50 @@
             <path>
               <item name="messagesystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="messagesystem" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="waimaibang" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="messagesystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="messagesystem" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="waimaibang" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="messagesystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="messagesystem" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="waimaibang" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="messagesystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="messagesystem" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="waimaibang" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="messagesystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="messagesystem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -355,8 +401,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -861,7 +905,8 @@
       <workItem from="1529567730740" duration="42000" />
       <workItem from="1529849051448" duration="875000" />
       <workItem from="1530348311713" duration="635000" />
-      <workItem from="1531041182027" duration="464000" />
+      <workItem from="1531041182027" duration="600000" />
+      <workItem from="1532839284650" duration="1236000" />
     </task>
     <servers />
   </component>
@@ -898,7 +943,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41673000" />
+    <option name="totallyTimeSpent" value="43045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -925,7 +970,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.340399" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25250357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
@@ -950,11 +995,11 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info id="Image Layers" order="3" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3221393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.13715711" />
       <window_info id="Capture Tool" order="6" />
@@ -962,6 +1007,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Run with VisualVM" order="13" />
@@ -970,17 +1016,16 @@
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info id="Nl-Palette" order="7" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.27181688" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.090844065" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Bean Validation" order="11" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39925373" />
     </layout-to-restore>
