@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4e5eecd-c2f2-465f-a1ca-87bbd1a166b1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/references/基于JMS的消息系统的设计与实现_周冠亚.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/references/基于JMS的消息系统的设计与实现_周冠亚.docx" afterDir="false" />
-    </list>
+    <list default="true" id="a4e5eecd-c2f2-465f-a1ca-87bbd1a166b1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/console/target/" />
@@ -826,7 +823,7 @@
       <workItem from="1530348311713" duration="635000" />
       <workItem from="1531041182027" duration="600000" />
       <workItem from="1532839284650" duration="2808000" />
-      <workItem from="1533475500473" duration="710000" />
+      <workItem from="1533475500473" duration="1036000" />
     </task>
     <servers />
   </component>
@@ -863,7 +860,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45327000" />
+    <option name="totallyTimeSpent" value="45653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
