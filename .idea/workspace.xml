@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4e5eecd-c2f2-465f-a1ca-87bbd1a166b1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messagesystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/messagesystem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/references/基于JMS的消息系统的设计与实现_周冠亚.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/references/基于JMS的消息系统的设计与实现_周冠亚.docx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,49 +15,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/Message.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/AbstractMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/JsonMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="306">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,49 +33,101 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/XmlMessage.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE-sources.jar!/org/springframework/messaging/converter/MessageConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="319">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/impl/JsonMessageConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
               <folding>
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1547#1548#0" expanded="true" />
+                <element signature="e#1574#1575#0" expanded="true" />
+                <element signature="e#2476#2477#0" expanded="true" />
+                <element signature="e#2503#2504#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/ByteMessage.java">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/impl/DefaultMessageListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="35" />
               <folding>
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/MappedMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jms/5.0.5.RELEASE/spring-jms-5.0.5.RELEASE.jar!/org/springframework/jms/support/converter/SimpleMessageConverter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="33" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/javax.jms.Message">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>javax.jms.Message</OriginalElement>
+              <nodes>
+                <node x="687.0" y="313.0">org.springframework.jms.listener.adapter.MessageListenerAdapter</node>
+                <node x="762.0" y="156.5">com.waimaibang.impl.DefaultMessageListener</node>
+                <node x="54.99999999999994" y="503.0">org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter.LazyResolutionMessage</node>
+                <node x="0.0" y="357.5">org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter</node>
+                <node x="310.99999999999994" y="79.0">org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener</node>
+                <node x="612.75" y="0.0">javax.jms.MessageListener</node>
+                <node x="385.99999999999994" y="335.0">org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.DestinationNameHolder</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener" target="javax.jms.MessageListener">
+                  <point x="0.0" y="-92.0" />
+                  <point x="526.5" y="54.0" />
+                  <point x="661.75" y="54.0" />
+                  <point x="-49.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.DestinationNameHolder" target="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener">
+                  <point x="0.0" y="-48.0" />
+                  <point x="0.0" y="92.0" />
+                </edge>
+                <edge source="org.springframework.jms.listener.adapter.MessageListenerAdapter" target="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener">
+                  <point x="0.0" y="-70.0" />
+                  <point x="846.5" y="288.0" />
+                  <point x="670.1666666666665" y="288.0" />
+                  <point x="143.66666666666663" y="92.0" />
+                </edge>
+                <edge source="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter.LazyResolutionMessage" target="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter">
+                  <point x="0.0" y="-59.0" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="com.waimaibang.impl.DefaultMessageListener" target="javax.jms.MessageListener">
+                  <point x="0.0" y="-14.5" />
+                  <point x="895.0" y="54.0" />
+                  <point x="759.75" y="54.0" />
+                  <point x="49.0" y="14.5" />
+                </edge>
+                <edge source="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter" target="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener">
+                  <point x="0.0" y="-25.5" />
+                  <point x="183.0" y="288.0" />
+                  <point x="382.8333333333333" y="288.0" />
+                  <point x="-143.66666666666663" y="92.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="494.5" y="212.5" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Fields</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -150,8 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/console/src/test/java/com/waimaibang/console/LoginTest.java" />
-        <option value="$PROJECT_DIR$/console/src/test/java/com/waimaibang/console/ConsoleTest.java" />
         <option value="$PROJECT_DIR$/console/src/main/java/com/waimaibang/ConsoleApplication.java" />
         <option value="$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/dto/ProducerDTO.java" />
         <option value="$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/controller/RegisterController.java" />
@@ -201,6 +215,8 @@
         <option value="$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/JsonMessage.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/waimaibang/dao/s.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/waimaibang/impl/JsonMessageConverter.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/waimaibang/impl/DefaultMessageListener.java" />
       </list>
     </option>
   </component>
@@ -257,9 +273,10 @@
       </PATH>
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="523" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="917" />
     <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -271,7 +288,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,39 +298,71 @@
             <path>
               <item name="waimaibang-message-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="waimaibang-message-system" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="waimaibang-message-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="waimaibang-message-system" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="waimaibang-message-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="waimaibang-message-system" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="waimaibang-message-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="waimaibang-message-system" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="waimaibang-message-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="waimaibang-message-system" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="references" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="waimaibang-message-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="waimaibang-message-system" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="waimaibang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="waimaibang-message-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="waimaibang-message-system" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="waimaibang" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553422101261" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554031458579" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -350,33 +398,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.ConsoleRegisterTest.loginTest">
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -395,6 +416,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
@@ -407,6 +429,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <properties />
@@ -459,6 +482,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -513,6 +537,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -582,7 +607,16 @@
       <workItem from="1533475500473" duration="1036000" />
       <workItem from="1533520971494" duration="202000" />
       <workItem from="1539509868280" duration="2680000" />
-      <workItem from="1553396142914" duration="2002000" />
+      <workItem from="1553396142914" duration="2431000" />
+      <workItem from="1553695872797" duration="498000" />
+      <workItem from="1553697536352" duration="867000" />
+      <workItem from="1554003088036" duration="628000" />
+      <workItem from="1554031533834" duration="7000" />
+      <workItem from="1555244842117" duration="945000" />
+      <workItem from="1555673875155" duration="4000" />
+      <workItem from="1555724376282" duration="468000" />
+      <workItem from="1567314299354" duration="924000" />
+      <workItem from="1570978590706" duration="2075000" />
     </task>
     <servers />
   </component>
@@ -619,12 +653,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50537000" />
+    <option name="totallyTimeSpent" value="57382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="798" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="808" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26575932" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15974212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -633,7 +667,6 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Nl-Palette" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3221393" />
@@ -643,7 +676,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.22301136" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3557143" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
@@ -652,7 +685,7 @@
       <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
       <window_info anchor="bottom" id="Java Enterprise" order="16" />
       <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="18" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -665,6 +698,9 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Bean Validation" order="11" />
+      <window_info anchor="right" id="Maven" order="12" />
+      <window_info anchor="right" id="Mybatis datasource" order="13" side_tool="true" />
+      <window_info anchor="right" id="aiXcoder" order="14" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
@@ -728,116 +764,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/service/ZookeeperService.java" />
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/model/ZkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/service/ProducerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/dto/ProducerDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/controller/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="47" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/dto/DestinationDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/impl/ZookeeperServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/waimaibang/console/impl/ProducerServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/resources/mapper/ConsumerDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1767">
-          <caret line="143" column="125" selection-start-line="143" selection-start-column="125" selection-end-line="143" selection-end-column="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/resources/mapper/DestinationDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2729">
-          <caret line="146" column="128" selection-start-line="146" selection-start-column="128" selection-end-line="146" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/resources/mapper/ProducerDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1575">
-          <caret line="143" column="125" selection-start-line="143" selection-start-column="125" selection-end-line="143" selection-end-column="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-end-line="2" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/service/ZookeeperService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/waimaibang/ZookeeperServiceTest/DestinationChangedListenerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/console/model/ProducerExample.java" />
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/producer-client/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/producer-client/src/main/java/com/waimaibang/ProducerClientApplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/references/BBS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/Destination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -1058,35 +984,35 @@
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/dao/s.java" />
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="540">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="108">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
+        <state relative-caret-position="1485">
           <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/AbstractMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="81">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/XmlMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="243">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="e#272#273#0" expanded="true" />
@@ -1095,20 +1021,216 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/ByteMessage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jms/5.0.5.RELEASE/spring-jms-5.0.5.RELEASE.jar!/org/springframework/jms/support/converter/SimpleMessageConverter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="189">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/JsonMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.jar!/org/springframework/messaging/converter/MessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE-sources.jar!/org/springframework/messaging/converter/ByteArrayMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE-sources.jar!/org/springframework/messaging/converter/CompositeMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE-sources.jar!/org/springframework/messaging/converter/MappingJackson2MessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="63" column="44" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE-sources.jar!/org/springframework/messaging/converter/MarshallingMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE-sources.jar!/org/springframework/messaging/converter/SimpleMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE-sources.jar!/org/springframework/messaging/converter/StringMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.messaging.converter.MessageConverter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.messaging.converter.MessageConverter</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.messaging.converter.MessageConverter</node>
+            <node x="" y="">org.springframework.messaging.converter.ByteArrayMessageConverter</node>
+            <node x="" y="">org.springframework.messaging.converter.StringMessageConverter</node>
+            <node x="" y="">com.waimaibang.impl.JsonMessageConverter</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="586.5" y="298.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE-sources.jar!/org/springframework/messaging/converter/MessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/spring.jms">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>spring.jms</OriginalElement>
+          <nodes>
+            <node x="" y="">spring.jms</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="65.0" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.lang.Nullable">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.lang.Nullable</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.annotation.Annotation</node>
+            <node x="" y="">java.lang.annotation.Target</node>
+            <node x="" y="">org.springframework.lang.Nullable</node>
+            <node x="" y="">java.lang.annotation.Documented</node>
+            <node x="" y="">java.lang.annotation.Retention</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="123.0" y="172.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jms/5.0.5.RELEASE/spring-jms-5.0.5.RELEASE.jar!/org/springframework/jms/core/JmsTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/javax.jms.api">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>javax.jms.api</OriginalElement>
+          <nodes>
+            <node x="" y="">javax.jms.api</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="80.0" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.jms.core.JmsTemplate">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.jms.core.JmsTemplate</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.jms.core.JmsOperations</node>
+            <node x="" y="">org.springframework.jms.support.JmsAccessor</node>
+            <node x="" y="">org.springframework.jms.core.JmsTemplate</node>
+            <node x="" y="">org.springframework.jms.support.destination.JmsDestinationAccessor</node>
+            <node x="" y="">org.springframework.beans.factory.InitializingBean</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="298.5" y="298.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/jms/javax.jms-api/2.0.1/javax.jms-api-2.0.1.jar!/javax/jms/MessageListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jms/5.0.5.RELEASE/spring-jms-5.0.5.RELEASE-sources.jar!/org/springframework/jms/support/converter/SimpleMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/MappedMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="243">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="e#275#276#0" expanded="true" />
@@ -1117,20 +1239,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jms/5.0.5.RELEASE/spring-jms-5.0.5.RELEASE.jar!/org/springframework/jms/support/converter/SimpleMessageConverter.class">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/ByteMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="243">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/model/message/JsonMessage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jms/5.0.5.RELEASE/spring-jms-5.0.5.RELEASE-sources.jar!/org/springframework/jms/core/JmsTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="220">
+          <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/impl/JsonMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#2476#2477#0" expanded="true" />
+            <element signature="e#2503#2504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/waimaibang/impl/DefaultMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/javax.jms.Message">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>javax.jms.Message</OriginalElement>
+          <nodes>
+            <node x="687.0" y="313.0">org.springframework.jms.listener.adapter.MessageListenerAdapter</node>
+            <node x="762.0" y="156.5">com.waimaibang.impl.DefaultMessageListener</node>
+            <node x="54.99999999999994" y="503.0">org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter.LazyResolutionMessage</node>
+            <node x="0.0" y="357.5">org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter</node>
+            <node x="310.99999999999994" y="79.0">org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener</node>
+            <node x="612.75" y="0.0">javax.jms.MessageListener</node>
+            <node x="385.99999999999994" y="335.0">org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.DestinationNameHolder</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener" target="javax.jms.MessageListener">
+              <point x="0.0" y="-92.0" />
+              <point x="526.5" y="54.0" />
+              <point x="661.75" y="54.0" />
+              <point x="-49.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.DestinationNameHolder" target="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener">
+              <point x="0.0" y="-48.0" />
+              <point x="0.0" y="92.0" />
+            </edge>
+            <edge source="org.springframework.jms.listener.adapter.MessageListenerAdapter" target="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener">
+              <point x="0.0" y="-70.0" />
+              <point x="846.5" y="288.0" />
+              <point x="670.1666666666665" y="288.0" />
+              <point x="143.66666666666663" y="92.0" />
+            </edge>
+            <edge source="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter.LazyResolutionMessage" target="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter">
+              <point x="0.0" y="-59.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.waimaibang.impl.DefaultMessageListener" target="javax.jms.MessageListener">
+              <point x="0.0" y="-14.5" />
+              <point x="895.0" y="54.0" />
+              <point x="759.75" y="54.0" />
+              <point x="49.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener.MessagingMessageConverterAdapter" target="org.springframework.jms.listener.adapter.AbstractAdaptableMessageListener">
+              <point x="0.0" y="-25.5" />
+              <point x="183.0" y="288.0" />
+              <point x="382.8333333333333" y="288.0" />
+              <point x="-143.66666666666663" y="92.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="494.5" y="212.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
